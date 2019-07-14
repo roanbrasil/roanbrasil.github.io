@@ -1,6 +1,7 @@
 # main text of home
 name: Roan Brasil Monteiro
-bio: I was born in Brazil, in a city called Cachoeiro de Itapemirim - ES, I am Software Engineer speaking 4 languages such as English, Portuguese, Spanish and French. Roan Brasil Monteiro Personal Blog focusing share my work experience with Microservices, BigData, Spring Boot, DDD, Javascript, Python, Go and etc..
+bio:  I help java developers doing integration to breakdown monoliths into microservices so they can stop wasting time developing things that will not be used, develop software faster, have more time to live their lives
+# I was born in Brazil, in a city called Cachoeiro de Itapemirim - ES, I am Software Engineer speaking 4 languages such as English, Portuguese, Spanish and French. Roan Brasil Monteiro Personal Blog focusing share my work experience with Microservices, BigData, Spring Boot, DDD, Javascript, Python, Go and etc..
 
 # twitter summary info
 description: A blog about technology and stuff related
@@ -56,7 +57,7 @@ email: roanbrasilmonteiro@gmail.com
 authors:
     roanbrasil:
         name: Roan Brasil Monteiro
-        bio: I was born in Brazil, in a city called Cachoeiro de Itapemirim - ES, I am Software Engineer speaking 4 languages such as English, Portuguese, Spanish and French. Roan Brasil Monteiro Personal Blog focusing share my work experience with Microservices, BigData, Spring Boot, DDD, Javascript, Python, Go and etc..
+        bio:  I [Roan] help java developers doing integration to breakdown monoliths into microservices so they can stop wasting time developing things that will not be used, develop software faster, have more time to live their lives
         external-image: false
         picture: assets/images/profile.jpg
         twitter: johndoe
