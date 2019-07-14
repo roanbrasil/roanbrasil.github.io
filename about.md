@@ -4,7 +4,8 @@ layout: page
 ---
 ![Profile Image]({{ site.url }}/{{ site.picture }})
 
-<p>I was born in Brazil, in a city called Cachoeiro de Itapemirim - ES, I am Software Engineer speaking 4 languages such as English, Portuguese, Spanish and French. Roan Brasil Monteiro Personal Blog focusing share my work experience with Microservices, BigData, Spring Boot, DDD, Javascript, Python, Go and etc..
+<p> I help java developers doing integration to breakdown monoliths into microservices so they can stop wasting time developing things that will not be used, develop software faster, have more time to live their lives
+
 </p>
 
 
